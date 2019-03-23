@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opendaylight.controller</groupId>
+  <artifactId>config-api</artifactId>
+  <versioning>
+    <versions>
+      <version>0.4.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160413145810</lastUpdated>
+  </versioning>
+</metadata>

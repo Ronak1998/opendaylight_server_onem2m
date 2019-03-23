@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opendaylight.openflowplugin.model</groupId>
+  <artifactId>model-flow-base</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160413145808</lastUpdated>
+  </versioning>
+</metadata>

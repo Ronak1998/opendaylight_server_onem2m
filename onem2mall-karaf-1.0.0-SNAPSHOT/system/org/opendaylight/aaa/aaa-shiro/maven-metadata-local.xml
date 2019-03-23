@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opendaylight.aaa</groupId>
+  <artifactId>aaa-shiro</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160413145813</lastUpdated>
+  </versioning>
+</metadata>

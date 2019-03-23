@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opendaylight.dlux</groupId>
+  <artifactId>dlux.common.authentication</artifactId>
+  <versioning>
+    <versions>
+      <version>0.3.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160413145803</lastUpdated>
+  </versioning>
+</metadata>

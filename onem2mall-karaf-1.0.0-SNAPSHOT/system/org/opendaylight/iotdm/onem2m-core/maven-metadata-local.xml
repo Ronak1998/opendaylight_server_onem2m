@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opendaylight.iotdm</groupId>
+  <artifactId>onem2m-core</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160413145815</lastUpdated>
+  </versioning>
+</metadata>

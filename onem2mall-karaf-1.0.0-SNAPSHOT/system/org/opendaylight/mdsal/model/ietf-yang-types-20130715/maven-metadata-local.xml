@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opendaylight.mdsal.model</groupId>
+  <artifactId>ietf-yang-types-20130715</artifactId>
+  <versioning>
+    <versions>
+      <version>2013.07.15.8.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160413145802</lastUpdated>
+  </versioning>
+</metadata>

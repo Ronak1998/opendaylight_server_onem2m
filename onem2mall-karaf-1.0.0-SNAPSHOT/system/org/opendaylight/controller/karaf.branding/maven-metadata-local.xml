@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.opendaylight.controller</groupId>
+  <artifactId>karaf.branding</artifactId>
+  <versioning>
+    <versions>
+      <version>1.2.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160413145801</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.opendaylight.l2switch.loopremover</groupId>
+  <artifactId>loopremover-config</artifactId>
+  <version>0.3.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20160413145815</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.3.2-SNAPSHOT</value>
+        <updated>20160413145815</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>xml</extension>
+        <value>0.3.2-SNAPSHOT</value>
+        <updated>20160413145815</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>config</classifier>
+        <extension>xml</extension>
+        <value>0.3.2-SNAPSHOT</value>
+        <updated>20160413145815</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
